@@ -1,6 +1,6 @@
 # Autók detektálása mély neurális hálózat segítségével Android készüléken vizuális médiumon
 
-## SelfDrivingCar
+## SelfDrivingPhone
 Android alkalmazás amely a kamera képén autót detektál mély neurális hálózat segítségével.
 
 Az alkalmazást letöltése után az Android Studio-ban meglévő projektként kell importálni és utána futtatható.
