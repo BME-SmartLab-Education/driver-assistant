@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SelfDrivingPhone</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="start_camera">Start Camera</string>
+</resources>
