@@ -28,4 +28,4 @@ A tanító adatbázist nem tartalmazza, az innen letölthető: https://www.gti.s
 - Glob
 
 
-A témáról egy cikk is készült: https://medium.com/@SmartLabAI/285a38b78fd4
+A témáról egy cikk is készült: https://medium.com/@SmartLabAI/aut%C3%B3k-detekt%C3%A1l%C3%A1sa-m%C3%A9ly-neur%C3%A1lis-h%C3%A1l%C3%B3zat-seg%C3%ADts%C3%A9g%C3%A9vel-android-k%C3%A9sz%C3%BCl%C3%A9ken-vizu%C3%A1lis-m%C3%A9diumon-285a38b78fd4
